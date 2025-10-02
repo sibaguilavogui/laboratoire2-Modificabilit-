@@ -1,5 +1,8 @@
 import java.util.Objects;
 
+/**
+ * Utilisateur (dev/testeur/etc.)
+ */
 public class User {
     private int userID;
     private String name;
@@ -16,10 +19,10 @@ public class User {
     // createTicket(ticket: Ticket): void
     public void createTicket(Ticket ticket) {
         Objects.requireNonNull(ticket, "ticket");
-        if (ticket.getStatus() == null || ticket.getStatus().isBlank()) {
-            ticket.updateStatus("OUVERT");
+        if (ticket.getStatus() == null) {
+            ticket.updateStatus(Status.OUVERT);
         }
-        ticket.touchCreationIfMissing(); // initialise la date de création si absente
+        ticket.touchCreationIfMissing(); // initialise creationDate si null
         System.out.println(name + " crée le ticket #" + ticket.getTicketID());
     }
 
@@ -29,7 +32,7 @@ public class User {
         System.out.println(ticket);
     }
 
-    public void updateTicket(Ticket ticket, String newStatus) {
+    public void updateTicket(Ticket ticket, Status newStatus) {
         Objects.requireNonNull(ticket, "ticket");
         ticket.updateStatus(newStatus);
         System.out.println(name + " met à jour le ticket #" + ticket.getTicketID()

@@ -2,6 +2,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
 
+/**
+ * Administrateur du système.
+ * (Conserve une liste locale des tickets qu’il suit.)
+ */
 public class Admin {
     private int adminID;
     private String name;
@@ -26,7 +30,7 @@ public class Admin {
 
     public void closeTicket(Ticket ticket) {
         Objects.requireNonNull(ticket, "ticket");
-        ticket.updateStatus("TERMINÉ");
+        ticket.updateStatus(Status.TERMINE);
         System.out.println(name + " ferme le ticket #" + ticket.getTicketID());
     }
 
@@ -34,7 +38,7 @@ public class Admin {
         return new ArrayList<>(tickets); // copie défensive
     }
 
-    // utilitaire: enregistrer un ticket créé ailleurs
+    /** Enregistre un ticket pour être suivi par l’admin (optionnel) */
     public void registerTicket(Ticket t) {
         if (t != null && !tickets.contains(t)) tickets.add(t);
     }
