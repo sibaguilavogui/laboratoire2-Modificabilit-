@@ -53,7 +53,22 @@ Le diagramme de départ proposait trois classes principales :
 - **Patrons de conception implicites** :
   - *Factory Method (implicite)* : création de tickets et descriptions via des méthodes dédiées.  
   - *Strategy (léger)* : enums pour gérer l’extensibilité des statuts et priorités.  
-  - *Composition over Inheritance* : `Ticket` contient une liste de `Description`.  
+  - *Composition over Inheritance* : `Ticket` contient une liste de `Description`.
+Rôle de l’administrateur
+
+L’administrateur (Admin) est responsable de la gestion globale du système :
+
+Il crée les utilisateurs (développeurs, testeurs, ingénieurs, etc.) avant qu’ils puissent interagir avec les tickets.
+
+Il peut assigner des tickets, fermer des tickets, et visualiser tous les tickets.
+
+Ce choix de conception respecte les principes de :
+
+Contrôle centralisé (Controller) → les opérations critiques sont sous supervision d’un seul acteur.
+
+Faible couplage → les utilisateurs ne manipulent pas directement les objets d’administration.
+
+Haute cohésion → l’administrateur se concentre sur la gestion et la supervision, sans interférer dans la logique métier des tickets.  
 
 ---
 
@@ -63,15 +78,11 @@ Le diagramme de départ proposait trois classes principales :
 - L’utilisation d’`enum` et de classes dédiées (comme `Description`) améliore la clarté, la maintenabilité et l’extensibilité du code.  
 - Les principes GRASP (Information Expert, Controller, Creator, Low Coupling, High Cohesion) guident la répartition des responsabilités dans un système orienté objet.  
 - L’importance de tester via un menu console qui relie **le diagramme théorique** et **l’exécution pratique**.  
-- Enfin, j’ai appris à intégrer progressivement les notions de conception (composition, enums, validation) pour produire un système flexible et évolutif.
+- Enfin, j’ai appris à intégrer progressivement les notions de conception (composition, enums, validation) pour produire un système flexible et évolutif; j'ai aussi appris à appliquer les bonnes pratiques de GRASP; l'utilité de la modificabilité dans un projet de gestion.
 
 ---
-
-## Contenu du dépôt GitHub
-
-- **code/** : contient les classes Java (`User`, `Admin`, `Ticket`, `Description`, `Main`, et les `enum`).  
-- **README.md** : rapport structuré du laboratoire.  
+  
 
 
 
- Travail réalisé individuellement par *Guilavogui Siba (GUIS15049901), session Automne 2025.*
+				 session Automne 2025.*
