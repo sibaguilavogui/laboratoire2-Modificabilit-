@@ -1,3 +1,9 @@
-*.class 
-bin/ 
+*.log 
+*.dat 
+*.xml 
+eventlogs/ 
+*.panrv 
+*.panra 
+87b1328c-6bd3-4162-8c89-b36f013d9833/ 
+.idea/ 
 out/ 

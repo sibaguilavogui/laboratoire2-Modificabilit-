@@ -84,8 +84,6 @@ Lien pour la démonstration https://uqac.ca.panopto.com/Panopto/Pages/Viewer.asp
 Lien depot GitHub https://github.com/sibaguilavogui/laboratoire2-Modificabilit-
 
 ---
-  
-
-
 
 				 session Automne 2025.*
+
