@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<EventLogState xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Panopto.Recorder">
+  <AttemptCount>0</AttemptCount>
+  <DeliveryID>881914f3-7960-45a1-84ca-b36f013ffff8</DeliveryID>
+  <EnableUploadAPI i:nil="true" />
+  <ErrorInfo i:nil="true" />
+  <FileInfos i:nil="true" />
+  <PanoptoSiteFQDN>uqac.ca.panopto.com</PanoptoSiteFQDN>
+  <RecordingEndTime>2025-10-07T15:36:20.3871131-04:00</RecordingEndTime>
+  <RecordingId>87b1328c-6bd3-4162-8c89-b36f013d9833</RecordingId>
+  <RecordingStartTime>2025-10-07T15:25:04.2890273-04:00</RecordingStartTime>
+  <SessionId>bfcdb5ee-5976-4ae2-bba1-b36f013fffee</SessionId>
+  <Status>Ready</Status>
+</EventLogState>

@@ -1,0 +1,126 @@
+2025-10-07T19:25:05.9129417Z|INFO|Upload starting 
+2025-10-07T19:25:05.9340086Z|INFO|Start loading file state from disk 
+2025-10-07T19:25:05.9340086Z|INFO|Upload state file does not exist 
+2025-10-07T19:25:05.9340086Z|INFO|Start initializing upload with Panopto 
+2025-10-07T19:25:06.3988435Z|INFO|Service returned different File ID, restarting the upload 
+2025-10-07T19:25:06.3988435Z|INFO|Service returned empty upload ID, restarting the upload 
+2025-10-07T19:25:06.3988435Z|INFO|Initializing upload with Panopto complete 
+2025-10-07T19:25:06.3988435Z|INFO|Upload file using chunk protocol 
+2025-10-07T19:25:06.3988435Z|INFO|Start initializing upload with content store 
+2025-10-07T19:25:06.7833703Z|INFO|Initializing upload with content store complete 
+2025-10-07T19:25:06.7833703Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:25:06.8069152Z|INFO|Waiting for 70 seconds to process new chunks 
+2025-10-07T19:26:16.8176865Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:26:16.8176865Z|INFO|Waiting for 70 seconds to process new chunks 
+2025-10-07T19:27:26.8185910Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:27:26.8185910Z|INFO|Waiting for 70 seconds to process new chunks 
+2025-10-07T19:28:36.8197396Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:28:36.8197396Z|INFO|Waiting for 70 seconds to process new chunks 
+2025-10-07T19:29:46.8234608Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:29:46.8234608Z|INFO|Processing chunks needing meta data: 2 
+2025-10-07T19:29:46.8334690Z|INFO|Start requesting upload metadata from Panopto for chunks: 2 
+2025-10-07T19:29:47.0003060Z|INFO|Complete requesting upload metadata from Panopto for chunks: 2 
+2025-10-07T19:29:47.0003060Z|INFO|Start uploading chunks 2 
+2025-10-07T19:29:47.0058223Z|INFO|Start uploading chunk: 2 
+2025-10-07T19:29:50.9885089Z|INFO|Uploading chunk complete for index: 2 
+2025-10-07T19:29:50.9885089Z|INFO|Start serializing upload state to disk 
+2025-10-07T19:29:51.0333164Z|INFO|Serializing upload state to disk complete 
+2025-10-07T19:29:51.0333164Z|INFO|Uploading chunks 2 complete 
+2025-10-07T19:29:51.0353140Z|INFO|Start updating upload progress with Panopto 
+2025-10-07T19:29:51.1444866Z|INFO|updating upload progress with Panopto complete 
+2025-10-07T19:29:51.1444866Z|INFO|Waiting for 70 seconds to process new chunks 
+2025-10-07T19:31:01.1592350Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:31:01.1592350Z|INFO|Processing chunks needing meta data: 3 
+2025-10-07T19:31:01.1592350Z|INFO|Start requesting upload metadata from Panopto for chunks: 3 
+2025-10-07T19:31:01.2563512Z|INFO|Complete requesting upload metadata from Panopto for chunks: 3 
+2025-10-07T19:31:01.2563512Z|INFO|Start uploading chunks 3 
+2025-10-07T19:31:01.2563512Z|INFO|Start uploading chunk: 3 
+2025-10-07T19:31:05.3363507Z|INFO|Uploading chunk complete for index: 3 
+2025-10-07T19:31:05.3363507Z|INFO|Start serializing upload state to disk 
+2025-10-07T19:31:05.3363507Z|INFO|Serializing upload state to disk complete 
+2025-10-07T19:31:05.3363507Z|INFO|Uploading chunks 3 complete 
+2025-10-07T19:31:05.3363507Z|INFO|Start updating upload progress with Panopto 
+2025-10-07T19:31:05.4434265Z|INFO|updating upload progress with Panopto complete 
+2025-10-07T19:31:05.4434265Z|INFO|Waiting for 70 seconds to process new chunks 
+2025-10-07T19:32:15.4443046Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:32:15.4443046Z|INFO|Waiting for 70 seconds to process new chunks 
+2025-10-07T19:33:25.4452569Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:33:25.4452569Z|INFO|Processing chunks needing meta data: 4 
+2025-10-07T19:33:25.4452569Z|INFO|Start requesting upload metadata from Panopto for chunks: 4 
+2025-10-07T19:33:25.7489842Z|INFO|Complete requesting upload metadata from Panopto for chunks: 4 
+2025-10-07T19:33:25.7489842Z|INFO|Start uploading chunks 4 
+2025-10-07T19:33:25.7489842Z|INFO|Start uploading chunk: 4 
+2025-10-07T19:33:31.2706349Z|INFO|Uploading chunk complete for index: 4 
+2025-10-07T19:33:31.2706349Z|INFO|Start serializing upload state to disk 
+2025-10-07T19:33:31.2744234Z|INFO|Serializing upload state to disk complete 
+2025-10-07T19:33:31.2744234Z|INFO|Uploading chunks 4 complete 
+2025-10-07T19:33:31.2744234Z|INFO|Start updating upload progress with Panopto 
+2025-10-07T19:33:31.3719149Z|INFO|updating upload progress with Panopto complete 
+2025-10-07T19:33:31.3719149Z|INFO|Waiting for 70 seconds to process new chunks 
+2025-10-07T19:34:41.3855907Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:34:41.3855907Z|INFO|Processing chunks needing meta data: 5 
+2025-10-07T19:34:41.3855907Z|INFO|Start requesting upload metadata from Panopto for chunks: 5 
+2025-10-07T19:34:41.6791118Z|INFO|Complete requesting upload metadata from Panopto for chunks: 5 
+2025-10-07T19:34:41.6791118Z|INFO|Start uploading chunks 5 
+2025-10-07T19:34:41.6791118Z|INFO|Start uploading chunk: 5 
+2025-10-07T19:34:45.7258283Z|INFO|Uploading chunk complete for index: 5 
+2025-10-07T19:34:45.7258283Z|INFO|Start serializing upload state to disk 
+2025-10-07T19:34:45.7258283Z|INFO|Serializing upload state to disk complete 
+2025-10-07T19:34:45.7258283Z|INFO|Uploading chunks 5 complete 
+2025-10-07T19:34:45.7258283Z|INFO|Start updating upload progress with Panopto 
+2025-10-07T19:34:45.8191979Z|INFO|updating upload progress with Panopto complete 
+2025-10-07T19:34:45.8191979Z|INFO|Waiting for 70 seconds to process new chunks 
+2025-10-07T19:35:55.8203718Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:35:55.8203718Z|INFO|Processing chunks needing meta data: 6 
+2025-10-07T19:35:55.8203718Z|INFO|Start requesting upload metadata from Panopto for chunks: 6 
+2025-10-07T19:35:55.9483521Z|INFO|Complete requesting upload metadata from Panopto for chunks: 6 
+2025-10-07T19:35:55.9483521Z|INFO|Start uploading chunks 6 
+2025-10-07T19:35:55.9483521Z|INFO|Start uploading chunk: 6 
+2025-10-07T19:35:59.9470575Z|INFO|Uploading chunk complete for index: 6 
+2025-10-07T19:35:59.9470575Z|INFO|Start serializing upload state to disk 
+2025-10-07T19:35:59.9470575Z|INFO|Serializing upload state to disk complete 
+2025-10-07T19:35:59.9470575Z|INFO|Uploading chunks 6 complete 
+2025-10-07T19:35:59.9470575Z|INFO|Start updating upload progress with Panopto 
+2025-10-07T19:36:00.0489138Z|INFO|updating upload progress with Panopto complete 
+2025-10-07T19:36:00.0489138Z|INFO|Waiting for 70 seconds to process new chunks 
+2025-10-07T19:36:28.1587644Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:36:28.1587644Z|WARN|Upload worker terminating due to cancellation 
+2025-10-07T19:36:28.1587644Z|WARN|Worker completed with exception System.Threading.Tasks.TaskCanceledException: Une tâche a été annulée.
+   à System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   à System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   à Panopto.Recorder.Upload.PanoptoFileUploader.<StopUpload>d__11.MoveNext()
+2025-10-07T19:36:28.1587644Z|INFO|Upload stopped 
+2025-10-07T19:36:28.1587644Z|INFO|Upload worker terminated 
+2025-10-07T19:36:28.1587644Z|INFO|Upload worker cleanup complete 
+2025-10-07T19:36:28.1897403Z|INFO|Upload starting 
+2025-10-07T19:36:28.1897403Z|INFO|Start loading file state from disk 
+2025-10-07T19:36:28.2633994Z|INFO|Loading file state from disk complete 
+2025-10-07T19:36:28.2633994Z|INFO|Start initializing upload with Panopto 
+2025-10-07T19:36:28.3630095Z|INFO|Initializing upload with Panopto complete 
+2025-10-07T19:36:28.3630095Z|INFO|Upload file using chunk protocol 
+2025-10-07T19:36:28.3630095Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:36:28.3630095Z|INFO|Processing chunks needing meta data: 1, 7 
+2025-10-07T19:36:28.3630095Z|INFO|Start requesting upload metadata from Panopto for chunks: 1, 7 
+2025-10-07T19:36:28.5322737Z|INFO|Complete requesting upload metadata from Panopto for chunks: 1, 7 
+2025-10-07T19:36:28.5322737Z|INFO|Start uploading chunks 1, 7 
+2025-10-07T19:36:28.5322737Z|INFO|Start uploading chunk: 1 
+2025-10-07T19:36:28.5322737Z|INFO|Start uploading chunk: 7 
+2025-10-07T19:36:38.7883427Z|INFO|Uploading chunk complete for index: 7 
+2025-10-07T19:36:38.7883427Z|INFO|Start serializing upload state to disk 
+2025-10-07T19:36:38.7883427Z|INFO|Serializing upload state to disk complete 
+2025-10-07T19:36:43.2328564Z|INFO|Uploading chunk complete for index: 1 
+2025-10-07T19:36:43.2328564Z|INFO|Start serializing upload state to disk 
+2025-10-07T19:36:43.2328564Z|INFO|Serializing upload state to disk complete 
+2025-10-07T19:36:43.2328564Z|INFO|Uploading chunks 1, 7 complete 
+2025-10-07T19:36:43.2328564Z|INFO|Start updating upload progress with Panopto 
+2025-10-07T19:36:43.3302399Z|INFO|updating upload progress with Panopto complete 
+2025-10-07T19:36:43.3302399Z|INFO|Upload modified chunk for progressive uploads 
+2025-10-07T19:36:43.3302399Z|INFO|Reconcile chunks with file on disk 
+2025-10-07T19:36:43.3302399Z|INFO|Start finalizing upload with content store 
+2025-10-07T19:36:43.4843725Z|INFO|Finalizing upload with content store complete 
+2025-10-07T19:36:43.4843725Z|INFO|Start serializing upload state to disk 
+2025-10-07T19:36:43.4843725Z|INFO|Serializing upload state to disk complete 
+2025-10-07T19:36:43.4843725Z|INFO|Start finalizing upload with Panopto 
+2025-10-07T19:36:43.6137764Z|INFO|Finalizing upload with Panopto complete 
+2025-10-07T19:36:43.6137764Z|INFO|Start serializing upload state to disk 
+2025-10-07T19:36:43.6137764Z|INFO|Serializing upload state to disk complete 

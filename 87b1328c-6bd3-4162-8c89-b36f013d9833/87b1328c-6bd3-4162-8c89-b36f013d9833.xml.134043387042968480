@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<RecordingInfo xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PublicID>87b1328c-6bd3-4162-8c89-b36f013d9833</PublicID>
+  <SessionID>00000000-0000-0000-0000-000000000000</SessionID>
+  <SessionGroupID>e38a4b68-510e-495f-94ba-b36f013ef47b</SessionGroupID>
+  <SessionLabel>Demo Labo</SessionLabel>
+  <SessionGroupLabel>Architecture des logiciels</SessionGroupLabel>
+  <UploadStatus>Offline</UploadStatus>
+  <IsFinalized>false</IsFinalized>
+  <StartTime>0001-01-01T00:00:00</StartTime>
+  <EndTime>0001-01-01T00:00:00</EndTime>
+  <Streams />
+  <EventStreams />
+  <Segments />
+  <Server>uqac.ca.panopto.com</Server>
+  <TimeOffset>0</TimeOffset>
+  <DeleteWhenUploadComplete>true</DeleteWhenUploadComplete>
+  <UserID>00000000-0000-0000-0000-000000000000</UserID>
+  <EnableUploadApi>true</EnableUploadApi>
+  <DeliveryID xsi:nil="true" />
+  <EnableMacRecorderEventFileTracking xsi:nil="true" />
+  <ClientInfo>
+    <Type>Windows</Type>
+    <MachineID>S-1-5-21-3015538209-2270866228-201636355hpsavqhzfe</MachineID>
+    <IPAddress>fe80::7ed7:9f53:84e2:1184%8</IPAddress>
+    <ClientBuildVersion>12.0.5.00966</ClientBuildVersion>
+    <ClientAppsVersion>12.0.5</ClientAppsVersion>
+    <OSVersion>Microsoft Windows NT 10.0.26100.0</OSVersion>
+    <ClientName>GUILAVOGUISIBA</ClientName>
+    <UserAgentId xsi:nil="true" />
+  </ClientInfo>
+  <RepairStatus>NotRepaired</RepairStatus>
+  <FaultedReason>NotFaulted</FaultedReason>
+  <FinalizeFailureCount>0</FinalizeFailureCount>
+  <LastFinalizeCall>0001-01-01T00:00:00</LastFinalizeCall>
+  <RecordingDir>C:\projets\laboratoire2\87b1328c-6bd3-4162-8c89-b36f013d9833</RecordingDir>
+  <DeleteAfterTime xsi:nil="true" />
+</RecordingInfo>

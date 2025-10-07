@@ -80,6 +80,9 @@ Haute cohésion → l’administrateur se concentre sur la gestion et la supervi
 - L’importance de tester via un menu console qui relie **le diagramme théorique** et **l’exécution pratique**.  
 - Enfin, j’ai appris à intégrer progressivement les notions de conception (composition, enums, validation) pour produire un système flexible et évolutif; j'ai aussi appris à appliquer les bonnes pratiques de GRASP; l'utilité de la modificabilité dans un projet de gestion.
 
+Lien pour la démonstration https://uqac.ca.panopto.com/Panopto/Pages/Viewer.aspx?id=881914f3-7960-45a1-84ca-b36f013ffff8
+Lien depot GitHub https://github.com/sibaguilavogui/laboratoire2-Modificabilit-
+
 ---
   
 
